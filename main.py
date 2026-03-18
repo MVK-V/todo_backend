@@ -8,9 +8,8 @@ app = FastAPI(title='Todo Backend')
 
 from fastapi.middleware.cors import CORSMiddleware
 
-origins = [
-    "https://wexler.io"
-]
+origins = "https://wexler.io"
+
 
 app.add_middleware(
     CORSMiddleware,
