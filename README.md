@@ -11,7 +11,7 @@ This project is a back-end engine designed to handle nested "parent-child" relat
 - **API Ready**: Integrated with **FastAPI** to serve data to web front-ends, including pre-configured CORS policies.
 
 ##  Tech Stack
-- **Language**: Python 3.12+
+- **Language**: Python 3.12++
 - **Framework**: FastAPI
 - **Data Handling**: JSON, Pydantic (Settings)
 - **Environment**: Docker-ready
